@@ -1,0 +1,45 @@
+{
+  "name": "gulpBP",
+  "version": "1.0.0",
+  "description": "My Gulp-Boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/puck3000/gulpBP.git"
+  },
+  "author": "daniellerch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/puck3000/gulpBP/issues"
+  },
+  "homepage": "https://github.com/puck3000/gulpBP",
+  "devDependencies": {
+    "autoprefixer": "^6.0.3",
+    "autoprefixer-stylus": "^0.5.0",
+    "browser-sync": "^2.0.0-rc3",
+    "del": "^1.1.1",
+    "gh-pages": "^0.2.0",
+    "gulp": "^3.9.0",
+    "gulp-concat-css": "^2.0.0",
+    "gulp-gh-pages": "^0.4.0",
+    "gulp-imagemin": "^2.3.0",
+    "gulp-minify-css": "^0.4.3",
+    "gulp-postcss": "^6.0.1",
+    "gulp-rename": "^1.2.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-stylus": "^2.0.0",
+    "gulp-twig": "^0.1.0",
+    "gulp-uglify": "^1.1.0",
+    "jeet": "^6.1.2",
+    "lost": "^6.6.2",
+    "poststylus": "^0.2.1",
+    "require-dir": "^0.1.0",
+    "run-sequence": "^1.0.2"
+  },
+  "dependencies": {
+    "imagemin-pngquant": "^4.2.0"
+  }
+}
